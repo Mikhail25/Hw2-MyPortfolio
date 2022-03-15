@@ -240,6 +240,7 @@ footer{
         height: 100%;
     }
 
+    /* Nav bar format for smaller screens */
     nav{
         width: 100%;
         display: flex;
