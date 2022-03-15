@@ -56,8 +56,12 @@ nav ul li{
     align-items: center;
 }
 
-nav ul li a{
+ul li a{
     text-decoration: none;
+}
+
+nav ul li a{
+
     color: #fff;
     transition: all 0.5s ease-out 0s;
     padding: 18px 10px;
@@ -173,12 +177,26 @@ h3{
 
 #contact .content ul li{
     flex-direction: row;
-    font-size: 22px;
+    font-size: 2px;
     margin-left: 50px;
     margin-top: 5px;
-    color: var(--dark-slate-gray);
+
     list-style: linear-gradient();
     display: inline;
+    font-size: 24px;
+}
+
+#contact .content ul li a{
+    color: var(--dark-slate-gray);
+    font-style: italic;
+    font-weight: 600;
+    transition: all 0.5s ease-out 0s;
+
+}
+
+#contact .content ul li a:hover{
+    color: var(--vivid-sky-blue);
+    font-style: normal;
 }
 
 footer{
@@ -192,6 +210,8 @@ footer{
     font-weight: 600;
     font-size: 18px;
 }
+
+
 
 /* Tablet and Phone Settings for resizing*/
 @media screen and (max-width: 800px) {
