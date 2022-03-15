@@ -20,4 +20,4 @@ The screenshots below previews the style and functionality of the portfolio:
 
 ![Screenshot of the portfolio in the PC browser format](./assets/images/Screenshot%201.png)
 
-![Screenshot of the portfolio in a tablet and/or mobile format](./assets/images/Screenshot%202.pngg)
+![Screenshot of the portfolio in a tablet and/or mobile format](./assets/images/Screenshot%202.png)
