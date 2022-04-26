@@ -2,7 +2,7 @@
 
 ### This is the project of Mikhail Sookwah pertaining to his personal portfolio
 
-THis includes
+This includes
 
 * A Webpage designed with CSS that includes
     
